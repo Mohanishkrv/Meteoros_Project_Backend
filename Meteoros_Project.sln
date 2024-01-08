@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34407.89
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meteoros_Project", "Meteoros_Project\Meteoros_Project.csproj", "{0591FB99-59B0-48F2-9867-A0DF2D186080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0591FB99-59B0-48F2-9867-A0DF2D186080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0591FB99-59B0-48F2-9867-A0DF2D186080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0591FB99-59B0-48F2-9867-A0DF2D186080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0591FB99-59B0-48F2-9867-A0DF2D186080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9C2CCD6-5BC3-4A3C-9A1D-DEAE733CA0EC}
+	EndGlobalSection
+EndGlobal
